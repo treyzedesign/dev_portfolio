@@ -1,3 +1,2 @@
 # main-portfolio
-
-https://treyzedesign.github.io/main-portfolio/
+https://treyzedesign.github.io/dev_portfolio/
